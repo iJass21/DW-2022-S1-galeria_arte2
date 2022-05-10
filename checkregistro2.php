@@ -28,6 +28,7 @@ if(isset($user)){
                                                     'apellido' => $_POST['apellido'], ]);
     var_dump($result);
     
+	
                                                     
 }
 
